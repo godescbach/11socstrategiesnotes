@@ -228,4 +228,12 @@ soc eng. take needs of analyst translate needs of eng. and time constraint of an
 
 no time to fully define reqs for eng. to select tools. eng doesn't do analysts job, so don;t know analysts needs. eng org has own needs, not just analysts.
 
-how is work moving thru the system? to tier or not to tier. 
+how is work moving thru the system? to tier or not to tier.
+
+tiers, funnel, flow of alerts thru soc. some object to "tier".  tierless models can be successful,  move to model that grow analyst. challenge them. improves efficiency. tierless can encourage growth. tierless, analyst handle cradle to grave, on-call. tier, level 2 are happier as they have less busy work. becareful to lose tier 1 analyst. don't use "tier 1, 2" terms. don;t use language that creates a hierarchy. don't have analyst that just do triage. still have need to do QA and differentiate responsibilities. use automation so avoid fighting the same battles everyday. but automation does not get rid of triage.
+
+some outsource tier 1 and have a couple of tier 2 analyst.  becareful of over tuning alerts. ai/ml can't do detection as well as ppl.
+
+use soft lines when choosing to tier, avoid compartmentalization. infosec should be challenging and provide growth.
+
+section 3.3.4, see workforce section. how to get grind work done.
