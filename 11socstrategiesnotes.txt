@@ -1,0 +1,231 @@
+-11 Strategies of a World-Class Cybersecurity Operations Center
+1-1:30 p.m. 7/25/2023
+
+podcast 0: Fundamentals
+why new book, carson wrote first. cyber changes fast. 4 yrs ago time for update. at mitre. carson at mitre. free resource. help just getting started in cyber. from diff. disciplines.
+
+meant as a resource. don't need to read in order. based on need. 
+
+sans 551, leaders, 450 tech. analyst.
+
+'23 soc. no single answer. why write the book, first. lack of common understanding across industry. for mainly mitre sponsors for mitre customers, mainly govt. soc definition. shapes and sizes. CSIRT defined. some socs don't do that or all of that. 
+
+denominator, there is a threat. defines need. prevent or respond to bad things happening. names tend to appear in different places. depends on size of org. nosc, soc and noc. soc in US. doing cyber defense.
+
+soc does not mean physical place but group of people. 
+
+soc missions differ. many factors. protecting what? discuss w/leaders. soc is not business mission. align functions of soc w/needs/business mission. write down soc services and functions. breadth vs. depth tradeoff. mission scope. meet in middle and figure out. never done.
+
+how soc fits in w/it. current and desired abilities. definitions help define scope. event, alert, incident. org must agree on terms. sometimes contextual, perspective and objective. book is reference for definitions and facilitating communication.
+
+use function categories to help define resources. first, global forum of incident response and security teams. comprehensive. defines boundaries. who is doing this/that?
+
+12:16-12:48 p.m. 7/26/2023
+
+signs some functinalty should or shouldn't be under soc. no perfect answer to draw that line. routine vuln scans vs. level 10 hair on fire stuff. need to have routine comm. w/other teams, long list of contacts, regardless of where line is drawn.
+
+are 2 pieces informing each other. ex. soc & vuln mgmt. ea. able to do function effectively. active vs. proactive. tasks interferring w/ea. other. 
+
+priority is connective tissue between functions/teams.
+
+many things are not dedicated roles, e.g. metrics. table is top-of-mind. 
+
+soc basics: workflow
+
+funnel of data to cases, data->alerts->cases->incidents. definitions. ppl in funnel communicating and collaborating. turning data into business outcomes.  comaraderie of team responding to threats. 
+
+funnel to place context and triage data & events.
+
+cti, know adversary, goes against mission, what threats ahead of time.  automation, to make funnel faster, early in the process.
+
+little confidence in data.  most events aren't bad.  puzzle solving, piecing data together. soc like sports team w/special of functions & backgrounds.
+
+p. 25, fig. 3. basic soc workflow
+
+ops tempo. act in relevant timescales for customer/constituency. parity w/decision loop of adversary. daily stand-up meetings. how are you working and how cna you make it faster.
+
+how to measure, metric? respond to leadership questions and alerts.
+
+podcast 1: Know what you are protecting and why
+start: 2023/08/08 1:30 p.m.
+
+why are there security operations at company? focus on what org does or is trying to do. sets priorities.
+
+break problem in pillars. divide and conquer. situational awareness. def. applies to soc and security apparatus.
+
+ooda loop. observe, orient, decide, act. ops tempo. need to go faster than attackers. otherwise won't be able to get ahead.
+
+understand assets in env. get basic right. avoid flashy advanced work before fundamentals.
+
+5 pillars of situational awareness.
+figure 5
+soc operating context.
+iteratively improve all 5 pillars, evolving situational awareness. never done.
+
+mission, legal/regulatory, tech/data env., users, threat
+
+(users, business/mission, data & technology
+regulation policy
+threat) = soc operating context
+
+understand regulations to use to drive budget, resourcing and prioritization.
+
+business/mission pillar
+locations, vendor relationships, acquisitions
+need to contextualize what you're seeing.
+
+be curious. understand what orgs and depts do.
+
+routine partnership w/stakeholders. composite asset inv. directoyr of services and pillars, knowledge base formed by soc.  good analyst understand context of what they're looking at.
+
+motivating people. leaders talking to staff. others, play games to learn mission. new data based on mission. ever changing. mission not one and done.
+
+identify advocates/partners w/soc. exercises w/ppl beyond soc org. aware of what other ppl use.
+
+stop: 2023/08/08 1:58 p.m.
+
+start: 2023/08/15 1:05 p.m.
+understanding how bussiness operates in context of cybersecurity actions.
+
+telemetry at application and service layer. need to engage w/other teams to understand context.
+
+legal/regulatory reqs.
+
+data collection, retention & backups, tactical
+
+incident, reporting reqs. vary per industry. move fast, e.g. breach timelines. posture for breach notification, pertain to parts of business.
+
+encryption reqs for privacy. big in europe.
+
+legal can make getting data harder.
+
+cloud reason for 2nd edition. moving fast. makes privacy harder. have additional data souces due to traffice encrption. will continue to move in that direction as soem data becomes unavialable for various reasons.
+
+understanding the tech. env, critical systems & data
+services, cloud endpoints forms denominator for completness of what SOC is doing.
+
+composite inventory
+
+competition for being single source of truth. need to draw sources into composite inventory.
+
+good socs 1) gather & translate signals from source and pass to composite inventory owner and 2) leveraging inventory in every thing they do. forms basis of shared situational awareness with every stakeholder.
+
+assigning business function to servers & assets as well as assigning risk & criticality to servers.
+
+start w/tactical things. then build knowledge on top & tie together.  don't do it all at once.
+
+spend as many resource on composite innventory as on siem.  the process of moving data across assets, generating signals, is business specific and complex which need a lot of resources.
+
+understand users -
+
+zero trust archs - buzzword, not including soc in discussion of deployment.
+
+rules looking for unusual behaviour, spam cannon of "was that you". resource drain. be guarded on which about how reacting to users.
+
+use automations to handle higher fp and asking "was that you".
+
+soc wants to know what's normal.  restrain turnover to keep experience.
+
+service-to-service trust can be problematic. understand service arch. mature sdlc. threat models.
+
+identity is being attacked more.
+
+understand threat
+
+know what threats are (leaders too). ongoing dialogue w/stakeholders. characterize incidents over time.  look to own org. to start w/rather than external threats. biuld from exp. look at tactical and operational info from local first.
+
+who among customer would attacker go after.
+
+thinking about insider threat, fraud and abuse. anything "as-a-service".
+
+build awareness over time
+
+not all at once. build momentum and trhythme. expend resources on getting good a services(s) and/or users.  build confidence and demonstrates material outcomes, not a money pit.
+
+automate where you can. don't automatically update a spreadsheet.
+
+prioritize assets. business jewels. focus on iterative improvement.
+
+stop: 2023/08/15
+
+start: 2023/09/22 08:45
+podcast 2: give soc authority to do its job
+why important? critical to have write down what soc does and how it does it for.
+soc aren't efficient when what needs to get written down doesn't match the culture.
+
+build boundaries of what to do. document. hit objectives for creating soc. don't wait for heat of moment.
+
+how to start creating charter? steering committee for soc. soc exists because execs decided. dimensions: provided functions and services, what asset/user doe s soc serve? handle contractors and vendors. concept of operations, scoping document.  What's not protected.
+
+boundaries are always a conversation during charter. cloud is outsourceing of tech.
+
+def. of soc scope is realized in how inventory is divided.
+
+what has to be in charter? example? section 2.1.2 elements of charter.
+
+don't have charter?
+
+charter allows working with other teams. gives authority.  w/o charter where does authority come from. authority vs. responsibility. may do things that aren't responsible for. allowed and enabled to do. e.g. scanning w/o est. scanning program. helps to get digital artifacts.
+
+know what's not in a charter. some soc don't do ir, e.g. key soc functions. aware changes of org and expectations.
+
+2.1.4 policies soc leans on. charters of other orgs for what they're responsibility for.
+
+steering committee affects charter. what does it look like. formed by stake holders. interest of ppl soc serves. major it/ot system owners. office of ciso. regular it operations. other parts of business.
+
+stop: 2023/09/22 09:00
+
+start: 2023/09/23 09:01
+podcast 2 con't:
+steering committee, executive, high level, not day to day, strategic, not tactical. help to bridge time to interact with teams. crisp value statement & charter.
+
+steering committee comminicatyion, culture depeendent, meet right people, may be more informal.
+
+2.2 org alignment. where to place the soc? culture dependent. may not be ciso. resp. of senior org and their scope. provide support for soc resp. may shift over tim eto discover alignment. create relationship w/ org(s). engage w/sr. mgmt.
+
+tension between syber org and kind of it, at home in both but one or the other. belonging to business unit. tough trade offs. what's gained or given up. deputy ciso. cybersec not just soc. soc monitor new it stuff, tension. ciso talks w/it.
+
+worried, soc drawn away from ppl doing bad things. compliance & news articles, ..., etc.
+
+why is cio ciso more common choice? more natural alignment. soc works with other cyber programs. fit w/programs and tech. laws require cio to be responsible in govt. operational elements -> cio, ciso. under coo? federated socs in business arm of greater enterprise. how to keep business going & integrate soc use cases.
+
+cso, peered with network ops, noc.  merged unmerge noc/soc. gain/lose efficiencies. netflow use. overlap of tasks. skill sets are very different, can't rotate ppl. help desks and tooling can gain efficiences. soc noc may not interact as much as thought.
+
+soc regular engagment, was that you? help understand alert? what systems are you putting into place next quarter? doesn't matter where soc is located. noc all things it, ot, & network ops.
+
+soc in business or mission unit. large bu. or need rep w/bu or mission unit. context is key. helps w/context. org boundaries. tech systems or user bases which can be separated, or different risk models. not for small soc/companies.
+
+autonomic soc, embed ppl. in projects to manage security. distributed security. sections 3 & 10.
+
+where in or chart. drives in & out of charter. clarify assumptions about what soc does. no one recipe, neeed to find mix w/communcation of stake holders/constituency.
+
+stop: 2023/09/23 09:26
+
+start: 2023/09/23 10:43
+podcast #3: SOC structure
+match org needs. why important? defines how elements fit together. pieces define what soc looks like. structures & best practice, evolution.
+
+most important drivers? how many to form a team? what to hope to be? combined it & sec. team.
+
+different ways to organize? def. terms. some ppl do soc functions w/o soc, ad-hoc. not formal soc. distributed, centralized, federated. ack ppl doing soc elements, dist. may have other resp. traditional: centralized. socs of different orgs/businesses, need to share information. hierarchical, coordinating sub-soc efforts, involved in day-to-day. size of org. big driver.
+
+how has this section evolved? trends? started with centralized soc. ppl doing sec ops need to be in sync. communication. otherwise bad things happen. some can't do it this way. too big, too small, need mssp, ..., etc. context of giant socs, less context. can't pull all info into one place causes missing context. distributed can provide context at soc level.
+
+how small can be? m&a going on, turbulent env. orgs need to understand ubsiness plans. if plan for consolidation, then soc needs to follow. share intelligence across socs. small and employ super users in co. soc deputies/advocates/PoC.
+
+3.3 what are key points?
+
+stop: 2023/09/23 10:58
+
+start: 2023/09/23 09:00
+podcast #3: con't SOC structure
+some possible functional grouping ides? group core soc functions. cti hunting & analytics, maybe separate team. arch, eng, & admin. running own tools. eng needs to know mission.
+other function, training, metrics, exercises, communications. vuln mgmt, dotted line.
+
+what ops tempo? interruptable function? triage & ir, yes, cti hunting and forensics, no. figure 7. no 2 socs structured the same. very rough examples. need to focus and/or need to iterate. SOC fundamentals focus on people trying to do bad things, not on specific tech, AD, PKI, ..., etc.
+
+soc eng. take needs of analyst translate needs of eng. and time constraint of analyst. analyst resp. for improving tools. every soc role needs dedicated time for improvement. agency, empowerment. drives improvement, investment and engagement.  soc needs voice in tools selected.
+
+no time to fully define reqs for eng. to select tools. eng doesn't do analysts job, so don;t know analysts needs. eng org has own needs, not just analysts.
+
+how is work moving thru the system? to tier or not to tier. 
