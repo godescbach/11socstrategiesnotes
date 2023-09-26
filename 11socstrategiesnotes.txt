@@ -217,7 +217,7 @@ how small can be? m&a going on, turbulent env. orgs need to understand ubsiness 
 
 stop: 2023/09/23 10:58
 
-start: 2023/09/23 09:00
+start: 2023/09/24 09:00
 podcast #3: con't SOC structure
 some possible functional grouping ides? group core soc functions. cti hunting & analytics, maybe separate team. arch, eng, & admin. running own tools. eng needs to know mission.
 other function, training, metrics, exercises, communications. vuln mgmt, dotted line.
@@ -237,3 +237,15 @@ some outsource tier 1 and have a couple of tier 2 analyst.  becareful of over tu
 use soft lines when choosing to tier, avoid compartmentalization. infosec should be challenging and provide growth.
 
 section 3.3.4, see workforce section. how to get grind work done.
+
+stop: 2023/09/24 10:00
+
+start: 2023/09/24 11:37
+what to outsource? both broad and specific, core functions to malware analysis. MSSP, MDR, IR partner, exercises, rt, pt, cti, ..., etc.
+what in-house skills? areas of growth. consider what functions you have and where those functions reside.
+
+make mssp tier 1? mssp misses context. have at least 1 person in IR if oursoucing IR to be abble to call out mssp. use metrics. have hunt team discover what missed. making operations better? use 5 buckets/pillares of situational awareness in 1.  how does mssp affect these?  need to bbe expert at understanding the threat. are they industry aware? may understand threats against business better. consider internal growth when outsourcing. may cutoff growth.
+
+mssp for 24/7 coverage. starts wth budget. not all or nothing. extended shifts or days. weekly on-call. define what's meant by 24/7? may not look at alerts 24/7. work changes in off-hour shifts. consider coverage of other depts, e.g. it. 15 fte's for 24/7.  effective hunting can be done hours/days later. may find more threats this way. 24/7 expensive and may not be needed.
+
+stop; 2023/09/24 11:53
