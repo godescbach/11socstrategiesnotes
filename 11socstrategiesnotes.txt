@@ -249,3 +249,15 @@ make mssp tier 1? mssp misses context. have at least 1 person in IR if oursoucin
 mssp for 24/7 coverage. starts wth budget. not all or nothing. extended shifts or days. weekly on-call. define what's meant by 24/7? may not look at alerts 24/7. work changes in off-hour shifts. consider coverage of other depts, e.g. it. 15 fte's for 24/7.  effective hunting can be done hours/days later. may find more threats this way. 24/7 expensive and may not be needed.
 
 stop; 2023/09/24 11:53
+
+start: 2023/09/25 08:57
+podcast #3: con't SOC structure
+req. to build soc room, how to build soc? what is motivation? collaboratoin and situational awareness. ppl struggle w/picture to see context. challenging for ppl. to physically move. follow culture. don't need dramatic space. provide tools that work. go back to basics. if virtual, set spaces up, whiteboard collaboration. need to touch physical hardware (fluke?).
+
+hybrid approach w/physical and virtual. patterns change from all remote or all virtual. screen real-estate primary/important.
+
+executives need to be briefed. need to be near execs for these during incident. can depend an exec's culture. changes onboarding, reaching out and communicating w/ppl. need to have non-work communications. have ppl. to turn to and places to engage. time to get together physically. need cadence. drives communication and collaboration. may need to travel to site, if follow the sun coverage strategy. opens lines of communication. in many countries, homes don't have separate place for work. changes assumptions for virtual setup, working conditions, when to talk/meet, ..., etc. use cameras. human-to-human connection/contact is irreplaceable. building bonds creates career longevity, surviving incidences together, working long hours together.
+
+summary: key pieces. mission context to setup soc. know charter, skill set alignment w/charter. understand where you're at. structure org/functions to maximize efficiency and effectiveness.
+
+stop: 2023/09/25 
