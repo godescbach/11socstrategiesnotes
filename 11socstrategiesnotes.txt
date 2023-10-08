@@ -260,4 +260,54 @@ executives need to be briefed. need to be near execs for these during incident. 
 
 summary: key pieces. mission context to setup soc. know charter, skill set alignment w/charter. understand where you're at. structure org/functions to maximize efficiency and effectiveness.
 
-stop: 2023/09/25 
+stop: 2023/09/25 09:12
+
+start: 2023/10/8 10:30 a.m
+podcast #4: hire and grow quality staff
+why important? how changed from previous book? first edition, section affect favor quality over quantity. skillset who to hire. expanded scope all things staffing, flows from soc org. mgmt worried about getting right people on team.
+
+4.1: entry level, or any role. core traits? job posts wrong on entry level. degree w/ experience.  may have other experience. need critical thinking piece. not about running toolset. think and process data given. repsond to new learning experiences. interest in tech. bar set too high, initially.
+don;t look for unicorn. creativity and curiousity w/critical thinking. may not know anwswers but willing to explore. field changes everyday.
+
+how to elicit these in hiring. look for some basics. played w/computer. some cyber knowledge. how they think about the probblem. may do ctf activity at school or elsewhere. work w.local group which may not have it. have lab at home. not waiting for cirriculum.
+
+tips for job hunters. avoid resume mistakes. will ask about what's on resume. soc is like a band or sports team. distinct roles that fit together. how got experience. how eveolved capabilities and those around them. ask open ended tech questions. bgp to dns, system dev., ..., etc.
+
+diversity in thought. looking for different skill sets and perspectives. impact and outcome on resume. be aware resume goes thru automated process, keywords. resume only part of battle. networking. use linkedin. some luck. luck favors the prepared. go to conferences which have job stuff. resume, most relevant stuff. may not be chronological. curate for company. some like chronological and varied stuff. diff views on resumes. no on perfect resumes. keep length down.  mgrs have to review lots of resumes. 1 pg or less for entry level.
+
+foundational skill relevant to soc. certs, exp., diversity of background and trasnferability of skills. understand how netwoerks and cloud work.
+
+shifted from tech. reqs. to less. tech. diversity of thought comes from diversity of knowledge. sometime simplistic beginners mind is needed. don't ignore english & art majors. mil exp. above a certain age, no one started in cyber.
+
+how to get started? used to say ir is best place. shifted to sys admin who know what is normal. security is big. any entry point helps. get in door w/whatever degree. take the job thats out there. much easier after first job.
+
+hiring mgrs & leaders. ic, individual contributor. understand culture. looking for tech. mgr or people mgr. project mgmt? start from ppl aspect if need to do all. excited by other accomplishments. good commjnicator speaking to leadership about soc. some tch. knwl to call bs. what does team need? tech. team needs mgr to run interference. less exp. team needs help in trenches.
+
+soft skills. sound decision making in crisis. mgrs involved in IR. understand business & team. manage conflicting priorities.  handle stress of multi-day incident. empathize w/ppl working for them. non-tech manage SOC? no analyst exp. need adaptability. may lose sound decision making. need sr. ppl that are trustworthy. leaders build based on their weaknesses. "fill out the band.".  ability to reset after getting it wrong.
+
+stop: 2023/10/08 11:06
+
+start: 2023/10/08 13:49
+podcast #4: hire and grow quality staff
+
+making new hires successful. some emph. on $$ for formal training an conf. constant earning and ojt is vital and must be a day-to-day activity. diliberate practice to step away and do reserach or podcast to refresh. non-tech. training important, communication, plannning, ..., etc. learn new area. how to engage ppl. think about whl person. everyone learn differently. not one kind of training. pair senior w/less exp. ppl. also helps seniors learn to train and gain deeper knowledge. not all senior enjoy this, bowever. document: sop, add data sources, code repo, etc.
+
+non-tech resource: crucial conversations (mitre). trusted advisor. mentorship, how to implement? formal? best are informal. organic. may not call it mentorship, just one person asking more questions than the other. relationships not just in soc, w/ key customers, red team, for example. mentors my not be in company/employer.
+
+red tean should be sharing their technique. rt and threat hunter contacts. rotate job duties to avoid burn-out.
+
+common reasons for leaving SOC. doing things the same as a year ago. use automation. avoid monotonous tasks. boring. no growth. provlde env. that allows people to move around. ppl thrive on solving puzzle and resolving crisis. ppl end up rage quitting because they don't feel like it's getting better. no forward progress of env.
+
+no budget to pay as much as want. how to overcome? env. can go along way. flexible work location/remote work. flexible hours. learning capacity. create culture of doing best you can and supported by mgmt. can't find magical unicorn w/low pay.
+
+handling counter offers. mgr, learn to let go. create pipeline of talnet but presume they will leave. who are my up and comers and plan to replace them. ben folds, alway someone cooler than you. always someone who will pay more. have relationship to discuss careers. create environment where they can talk about an offer before they accept it. may need ot make deliberate trade offs when making counter offer. they maybe looking for something other than $: location, personal project.
+
+be aware of those that work too many hours. help them modulate that and be aware of each other. awareness of how to regulate that. to maintain objectivity.
+
+preplanning for staff turnover. look for single points of failure or knowledge. learn what others know about env. and tools they've deveoped. staff rotations ans SOPs. documentation emphasis. who normallhy leads stuff (incident, e.g.). keep intelligence profile, short. make it a constant thing. prioritize reading and writig documentation.
+
+how to inspire documentatoin. do little bit at a time. put in few places as possible. use cases, detection, IR, ..., etc. be flexible on consistency (e.g. labeling). use search and be less concerned w/tagging. put in place where all can access if someone leaves to avoid void. make it easy to update and consolidate. diff levels of approval. SOP levels. use informal ways of communicating.
+
+how many analyst needed? 24/7, what iw risk nodel? mssp? alert metrics and processing of alerts & queues.  watch for backlog. improve processes & automate before hiring for man-hours. handling basics? too large/bloated? soc should be constantly improving in effectiveness and efficiency. ratios of sensors/alert:people don't really work. metrics may be a place to start. affected by mission scope, regulation compliance. constantly changing. my evolve SOC to occupy slack in bandwidth. manage core and supplemental functions.  typically can't have enough people given all functions. activity should be improving fundamentals of protecting, detecting, monitoring and responding.
+
+stop: 2023/10/08 14:30
