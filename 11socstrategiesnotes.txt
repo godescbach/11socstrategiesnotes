@@ -311,3 +311,14 @@ how to inspire documentatoin. do little bit at a time. put in few places as poss
 how many analyst needed? 24/7, what iw risk nodel? mssp? alert metrics and processing of alerts & queues.  watch for backlog. improve processes & automate before hiring for man-hours. handling basics? too large/bloated? soc should be constantly improving in effectiveness and efficiency. ratios of sensors/alert:people don't really work. metrics may be a place to start. affected by mission scope, regulation compliance. constantly changing. my evolve SOC to occupy slack in bandwidth. manage core and supplemental functions.  typically can't have enough people given all functions. activity should be improving fundamentals of protecting, detecting, monitoring and responding.
 
 stop: 2023/10/08 14:30
+
+start: 2023/10/14 12:33
+podcast #4: hire and grow quality staff con't
+section 4.5 where to begin. back to mission scope. need to hire more ppl can be self-inflicted. question lots of notification. # constantly changing. add cloud, need more. look for low contributors. effects pof analyst productivity. evolve the soc. # changes over time. basic functions dection, monitoring and response of core things. basic triage for alerts coming in. manage org expectations. look at taking actoin and improving as ceiling for # of ppl.
+
+can;t have every analyst looking at every slert every 3 min. for ex. don't over emphasize timeliness over effectiveness. free ourslef of assumptions can make others more effective.
+
+soc is fluid and pipeline is changing. plan on hiring and growing staff. think of larger cyber community. promote from within over hiring outside.
+stop: 2023/10/14 12:43
+
+
