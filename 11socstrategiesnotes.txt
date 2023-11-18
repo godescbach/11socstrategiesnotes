@@ -321,4 +321,23 @@ can;t have every analyst looking at every slert every 3 min. for ex. don't over 
 soc is fluid and pipeline is changing. plan on hiring and growing staff. think of larger cyber community. promote from within over hiring outside.
 stop: 2023/10/14 12:43
 
+podcast 5: Prioritize Incident Response
+start: 2023/11/14 17:17
+most important thing soc can do.
 
+inspiration for naming of chapter.  "prioritize". place to start if limited on resources. ir first. foundational to understanding adversaries. footprints. figuring out how adversaries bypass security.
+
+handling vs. response. thrill of finding bad ppl doing bad stuff. don't always respond. handling incident from cradle to grave in consistent way. response is subset. handling includes communication.
+
+particularly helpful. have repeatable process. nist. veris. no one perfect answer. same stages & labels. categories. mitre attack framework. way to put in tech. stages. higher level for others. communicate level of risk. can help w/playbooks to help respond. generalized than mitre. can depend in business/org. affected. way of developing a path forward rather than a definitive answer. categorization can get complicated.
+
+things to think about when building IR. sop's, playbooks and staff broken down by functions in soc. ppl need ownership to grow sop's & playbooks. conops, concepts of operations. keep docs small and easy to update. what happens when an indicent is declared. roles & responsibilities. tiers for specific incidents. do exercises well before incident happens.  need to be thinking about incident, not process. have cadence to handle changes (e.g. comm changes). what kinds if incidents do you care about in your env.?
+
+how to address different tiers of incident, level of severity? exercise big things and then scale back. need to be able to handle if something grows in severity. some socs do a scale up model. use severity & scope of enterprise it, smoothes friction. fog of war. biasing to bigger things according to sop. soc to learn about what's big or not. not everything is an incident. special term for everyday problem? uses enterprise language. depends on env. & regulatory if applicable.
+
+roles involved. key people for big incident. inc. commander/lead may not be tech. or sr. leader. makes sure things are going according to an sop. good communicator. docs filled out. comm person & reporting back to leadership. tech. lead. get right data, handles access needs of soc. may be mgr. tool access. may also be doing investigation. specialized tech. ppl. periodic leadership update to avoid maintenance report distraction.
+
+ops mgr. who to call, what process, assigns roles for needed task.  look across incidents.
+may need to breakup incident into different work streams as commander/lead becomes overloaded.  ea. workstream has a lead. plan for cognitive overload. triage becomes important here.
+
+stop: 2023/11/14 17:52
