@@ -341,3 +341,23 @@ ops mgr. who to call, what process, assigns roles for needed task.  look across 
 may need to breakup incident into different work streams as commander/lead becomes overloaded.  ea. workstream has a lead. plan for cognitive overload. triage becomes important here.
 
 stop: 2023/11/14 17:52
+
+podcast 5: Prioritize Incident Response
+start: 2023/11/19 10:20
+
+separate investigators and communicators.
+plaform. org comms? what's in place. use what you have. part of normal workflow. know limitations. try before an actual incident. 3 buckets: real time chat. start forum for arbitrary ppl. include random ppl. 2) flexibility, place for analytic info. for community of ppl involved. chat insufficient. support confidential info. google docs? wiki isn't? 3) tasks tracking, keep track of ppl down in weeds, kanban boards.
+
+try to make info quick and easy for leadership.  have a place for an exec summary. baseline expectations. regular cadence.
+
+where to start activity for serious incident? scope and gather analysis. wait to take action. avoid going off in different directions. stick to process. run as major incident. avoid pressure to act prematurely. get it all.
+
+how to dyouy know you have enough? follow threads. root compromise. trace infiltration. use kill chain. what's legit and what's not. where did it come from? where did it go? find initial entry point (gold). patient 0. timeline. common operating picture. shared situational awareness that everyone can understand. directed graph show what adversaries are doing. not bug splat or dandilions. kiss. establish who maintains it.
+
+max. wait time for serious incident? discover most important data is being exfiltrated out. may not want to watch damage. tool in env. or live attacker on keyboard. need to move fast w/live hacker. isolate access. they're racing. sophisticated adverseary and may reenter if cut off too soon. scope of presence hadker has. presnece in identity plane, keys, tokens, ..., etc. if haker know syou're there, things speed up.  stay stealthy if possible.
+
+what tectical items to put into place being stealthy? chapter 11, deception, adv. concepts. move most important data.
+
+potential for bias. experiences. analytic bias, strategy 6. bias in response. pressure to act. act w/incorrect scope, ineffective. develop game plan to evict hacker. define outcome and how to do it for brainstorming. never get to perfection, will always have some doubt before acting. incident may look like something before when it's not. understand extent of access & deny further access before taking action. usually set of identites, not just one.
+
+stop: 2023/11/19
