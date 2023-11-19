@@ -360,4 +360,4 @@ what tectical items to put into place being stealthy? chapter 11, deception, adv
 
 potential for bias. experiences. analytic bias, strategy 6. bias in response. pressure to act. act w/incorrect scope, ineffective. develop game plan to evict hacker. define outcome and how to do it for brainstorming. never get to perfection, will always have some doubt before acting. incident may look like something before when it's not. understand extent of access & deny further access before taking action. usually set of identites, not just one.
 
-stop: 2023/11/19
+stop: 2023/11/19 10:50
