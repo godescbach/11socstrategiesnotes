@@ -356,8 +356,38 @@ how to dyouy know you have enough? follow threads. root compromise. trace infilt
 
 max. wait time for serious incident? discover most important data is being exfiltrated out. may not want to watch damage. tool in env. or live attacker on keyboard. need to move fast w/live hacker. isolate access. they're racing. sophisticated adverseary and may reenter if cut off too soon. scope of presence hadker has. presnece in identity plane, keys, tokens, ..., etc. if haker know syou're there, things speed up.  stay stealthy if possible.
 
-what tectical items to put into place being stealthy? chapter 11, deception, adv. concepts. move most important data.
+what tactical items to put into place being stealthy? chapter 11, deception, adv. concepts. move most important data.
 
 potential for bias. experiences. analytic bias, strategy 6. bias in response. pressure to act. act w/incorrect scope, ineffective. develop game plan to evict hacker. define outcome and how to do it for brainstorming. never get to perfection, will always have some doubt before acting. incident may look like something before when it's not. understand extent of access & deny further access before taking action. usually set of identites, not just one.
 
 stop: 2023/11/19 10:50
+
+podcast 5: Prioritize Incident Response
+start: 2023/11/20 09:01
+
+bar for alerts, tp, fp, tn, fn. emotion & angst. selling for 25 yrs.  bias to extreme ends is risky. too many, too few alerts. how to find balance? discipline. test themselves, red team, breach as a service.
+
+how to prepare for containment? partnership is important. soc usually can't do this. no last minute incidwent walk-thrus. criticality of doing/not doing.
+
+how to bulid trusting relationship? practice. start w/soc not being able to do it themselves. orgs grow comfortable w/soc. then want soc to do it themselves. playbooks & planning are useful. takedown AD plan. let orgs know what can happen. know what fp's look like before potential actions are taken. orgs (business owner) needs to ahve same opinion as soc. take a stop back, take a beat, make sure everyone is on board.
+
+cloud containment preparation. ir analysis is log analysis. emphasis on identity plane for containment and eradication. forces soc to do what is should have been doing. OT? ICS? different. ot protocols. infrastructure. definition. can monitor? think about how data is being transmitted ans stored. logs related to what is happening. how could adverseary in env & how to identify when that is happening. visibility to do analysis. ot is varied widely. soem separate teams & networks. soc needs to engage. what is that and what do we do about it?
+
+stop: 2023/11/20 09:20
+
+podcast 5: Prioritize Incident Response
+start: 2023/11/21 07:40
+
+gather logs, what to look for in logs. mobile is different. locked down and complex.
+
+how often mobile compromise? happnes at average company. starts w/ identity. mobile attack to get creds. android, ios, also? byod, windows & linux on personal devices? big question, need to scope, phones. password stealing. common delivery: sms, phishing, identity & mfa exhaustion. use ubiquitiousness for attack. token stealing. auth to enterprise services on mobile to persistent session, water hole attack. devices w/o mdm.
+
+malware on phone? govt agencies have seen it. journalist, activist & user groups. threat intelligence. mobile not priority over desktops/laptops. google pegasus.
+
+post incident activity? close up incident. PIR. best way to get better. start pir slop scratch pad. quick space to jot down notes in heat of the moment, saw something that didn't go well. ppl innvolved in incident have slop grooming session. decide action items to fix. efforts to champion. didn't have data type X, creds in code, ..., etc. track and bburndown over time. collect problems of how enterprise is addressing security. rank items and pursue. find ppl to help champion.
+
+pir most important and forgotten the most. have ground rules, no blame. learn about preventin & detection. discuss w/ppl outside of soc. growth mindset.
+
+write down IR pathways. rotate responsibilities.
+
+stop: 2023/11/21 08:00
